@@ -1,0 +1,19 @@
+{
+  "name": "ramphor/optimize-database",
+  "description": "Optimize database for WordPress",
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Puleeno Nguyen",
+      "email": "puleeno@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Ramphor\\DB\\Optimizer": "src/"
+    }
+  }
+}
